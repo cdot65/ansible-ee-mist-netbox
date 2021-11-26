@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "ansible-ee-netbox-inventory"
+name = "ee-mist-netbox"
 version = "0.1.0"
-description = "Dynamic Inventory between Netbox and Ansible AWX"
+description = "Mist and Netbox EE for Ansible AWX"
 authors = ["Calvin Remsburg <cremsburg@protonmail.com>"]
 license = "Apache 2.0"
 

@@ -1,4 +1,6 @@
 ---
 collections:
   - name: netbox.netbox
-    version: 3.1.2
+    version: 3.3.0
+  - name: cremsburg.mist
+    version: 0.0.7

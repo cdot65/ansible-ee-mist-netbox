@@ -1,10 +1,10 @@
-# Ansible Execution Environment: Netbox Inventory
+# Ansible Execution Environment: Mist and Netbox
 
-[![N|Solid](https://netbox.readthedocs.io/en/latest/netbox_logo.svg)](https://netbox.readthedocs.io/)
+[![N|Solid](https://netbox.readthedocs.io/en/stable/netbox_logo.svg)](https://netbox.readthedocs.io/)
 
 ## Overview
 
-This project aims to sync Netbox inventory into Ansible AWX through the construct of an Execution Environment.
+This project aims to bring Juniper's Mist and Netbox functionality into Ansible AWX through the construct of an Execution Environment.
 
 ### 🐍 `Prep your Python environment`
 
@@ -52,6 +52,7 @@ Refer to the Poetry Lock file located at [poetry.lock](poetry.lock) for detailed
 ## ⚙️ `How it works`
 
 Coming soon
+
 ## 📸 `Screenshot`
 
 ![sync job](./static/images/screenshot.png)
